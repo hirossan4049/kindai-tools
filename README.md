@@ -5,6 +5,7 @@ based [![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0
 | -- | -- |
 | KULeD.js | KULeDの答えを教えてくれるUserScript。 `OPENAI_TOKEN`は各自。 |
 | linguaporta.js| リンガポルタの答えを教えてくれるUserScript。よしなに |
+| GDPDFDownloader.js | Google DriveのPDFをダウンロードするやつ |
 
 
 ## LICENSE
